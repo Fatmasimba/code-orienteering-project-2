@@ -2,3 +2,4 @@ add first room prefab
 add player character
 add floor matrix
 add jump
+fix gravity bug
